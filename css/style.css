@@ -930,7 +930,7 @@ progress {
 }
 
 .no-webp .about__foto-bg {
-  background: -webkit-image-set(url("/images/about.jpg") 1x, url("/images/about@2x.jpg") 2x) no-repeat 50%/cover; }
+  background: -webkit-image-set(url("images/about.jpg") 1x, url("images/about@2x.jpg") 2x) no-repeat 50%/cover; }
 
 .about__foto-bg {
   position: absolute;
@@ -1706,4 +1706,4 @@ progress {
 
 .webp .promo { background: url(../images/main_bg.webp) no-repeat 50%/cover; }
 
-.webp .about__foto-bg { background: -webkit-image-set(url(/images/about.webp) 1x, url(/images/about@2x.webp) 2x) no-repeat 50%/cover; }
+.webp .about__foto-bg { background: -webkit-image-set(url(images/about.webp) 1x, url(images/about@2x.webp) 2x) no-repeat 50%/cover; }
